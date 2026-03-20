@@ -112,3 +112,4 @@ C:\Users\Piedi\Desktop\Srudio Medico\StudioMedico_BE\AuthApi\obj\Debug\net8.0\re
 C:\Users\Piedi\Desktop\Srudio Medico\StudioMedico_BE\AuthApi\obj\Debug\net8.0\AuthApi.pdb
 C:\Users\Piedi\Desktop\Srudio Medico\StudioMedico_BE\AuthApi\obj\Debug\net8.0\AuthApi.genruntimeconfig.cache
 C:\Users\Piedi\Desktop\Srudio Medico\StudioMedico_BE\AuthApi\obj\Debug\net8.0\ref\AuthApi.dll
+C:\Users\Piedi\Desktop\Srudio Medico\StudioMedico_BE\AuthApi\obj\Debug\net8.0\AuthApi.sourcelink.json
